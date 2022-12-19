@@ -1,0 +1,21 @@
+{
+  "name": "blog_copy_2023",
+  "version": "1.0.0",
+  "description": "Copy for general blog articles in 2023.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node ./scripts/build.js --html='blog_copy_2023' --scss='blog_copy_2023'",
+    "build:watch": "nodemon --watch 'src/**/*' -e js,html,scss ./scripts/build.js",
+    "start": "node ./scripts/server.js"
+  },
+  "author": "Jon Richards",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20",
+    "sass": "^1.56.1",
+    "yargs": "^17.6.2"
+  }
+}
