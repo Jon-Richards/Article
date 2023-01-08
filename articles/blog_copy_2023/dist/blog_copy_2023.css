@@ -1,4 +1,4 @@
-.quality_over_quantity {
+.blog_copy_2023 {
   /* http://meyerweb.com/eric/tools/css/reset/ 
      v2.0 | 20110126
      License: none (public domain)
@@ -10,19 +10,19 @@
   font-size: 100%;
   padding: 0;
 }
-.quality_over_quantity html, .quality_over_quantity body, .quality_over_quantity div, .quality_over_quantity span, .quality_over_quantity applet, .quality_over_quantity object, .quality_over_quantity iframe,
-.quality_over_quantity h1, .quality_over_quantity h2, .quality_over_quantity h3, .quality_over_quantity h4, .quality_over_quantity h5, .quality_over_quantity h6, .quality_over_quantity p, .quality_over_quantity blockquote, .quality_over_quantity pre,
-.quality_over_quantity a, .quality_over_quantity abbr, .quality_over_quantity acronym, .quality_over_quantity address, .quality_over_quantity big, .quality_over_quantity cite, .quality_over_quantity code,
-.quality_over_quantity del, .quality_over_quantity dfn, .quality_over_quantity em, .quality_over_quantity img, .quality_over_quantity ins, .quality_over_quantity kbd, .quality_over_quantity q, .quality_over_quantity s, .quality_over_quantity samp,
-.quality_over_quantity small, .quality_over_quantity strike, .quality_over_quantity strong, .quality_over_quantity sub, .quality_over_quantity sup, .quality_over_quantity tt, .quality_over_quantity var,
-.quality_over_quantity b, .quality_over_quantity u, .quality_over_quantity i, .quality_over_quantity center,
-.quality_over_quantity dl, .quality_over_quantity dt, .quality_over_quantity dd, .quality_over_quantity ol, .quality_over_quantity ul, .quality_over_quantity li,
-.quality_over_quantity fieldset, .quality_over_quantity form, .quality_over_quantity label, .quality_over_quantity legend,
-.quality_over_quantity table, .quality_over_quantity caption, .quality_over_quantity tbody, .quality_over_quantity tfoot, .quality_over_quantity thead, .quality_over_quantity tr, .quality_over_quantity th, .quality_over_quantity td,
-.quality_over_quantity article, .quality_over_quantity aside, .quality_over_quantity canvas, .quality_over_quantity details, .quality_over_quantity embed,
-.quality_over_quantity figure, .quality_over_quantity figcaption, .quality_over_quantity footer, .quality_over_quantity header, .quality_over_quantity hgroup,
-.quality_over_quantity menu, .quality_over_quantity nav, .quality_over_quantity output, .quality_over_quantity ruby, .quality_over_quantity section, .quality_over_quantity summary,
-.quality_over_quantity time, .quality_over_quantity mark, .quality_over_quantity audio, .quality_over_quantity video {
+.blog_copy_2023 html, .blog_copy_2023 body, .blog_copy_2023 div, .blog_copy_2023 span, .blog_copy_2023 applet, .blog_copy_2023 object, .blog_copy_2023 iframe,
+.blog_copy_2023 h1, .blog_copy_2023 h2, .blog_copy_2023 h3, .blog_copy_2023 h4, .blog_copy_2023 h5, .blog_copy_2023 h6, .blog_copy_2023 p, .blog_copy_2023 blockquote, .blog_copy_2023 pre,
+.blog_copy_2023 a, .blog_copy_2023 abbr, .blog_copy_2023 acronym, .blog_copy_2023 address, .blog_copy_2023 big, .blog_copy_2023 cite, .blog_copy_2023 code,
+.blog_copy_2023 del, .blog_copy_2023 dfn, .blog_copy_2023 em, .blog_copy_2023 img, .blog_copy_2023 ins, .blog_copy_2023 kbd, .blog_copy_2023 q, .blog_copy_2023 s, .blog_copy_2023 samp,
+.blog_copy_2023 small, .blog_copy_2023 strike, .blog_copy_2023 strong, .blog_copy_2023 sub, .blog_copy_2023 sup, .blog_copy_2023 tt, .blog_copy_2023 var,
+.blog_copy_2023 b, .blog_copy_2023 u, .blog_copy_2023 i, .blog_copy_2023 center,
+.blog_copy_2023 dl, .blog_copy_2023 dt, .blog_copy_2023 dd, .blog_copy_2023 ol, .blog_copy_2023 ul, .blog_copy_2023 li,
+.blog_copy_2023 fieldset, .blog_copy_2023 form, .blog_copy_2023 label, .blog_copy_2023 legend,
+.blog_copy_2023 table, .blog_copy_2023 caption, .blog_copy_2023 tbody, .blog_copy_2023 tfoot, .blog_copy_2023 thead, .blog_copy_2023 tr, .blog_copy_2023 th, .blog_copy_2023 td,
+.blog_copy_2023 article, .blog_copy_2023 aside, .blog_copy_2023 canvas, .blog_copy_2023 details, .blog_copy_2023 embed,
+.blog_copy_2023 figure, .blog_copy_2023 figcaption, .blog_copy_2023 footer, .blog_copy_2023 header, .blog_copy_2023 hgroup,
+.blog_copy_2023 menu, .blog_copy_2023 nav, .blog_copy_2023 output, .blog_copy_2023 ruby, .blog_copy_2023 section, .blog_copy_2023 summary,
+.blog_copy_2023 time, .blog_copy_2023 mark, .blog_copy_2023 audio, .blog_copy_2023 video {
   margin: 0;
   padding: 0;
   border: 0;
@@ -30,96 +30,99 @@
   font: inherit;
   vertical-align: baseline;
 }
-.quality_over_quantity article, .quality_over_quantity aside, .quality_over_quantity details, .quality_over_quantity figcaption, .quality_over_quantity figure,
-.quality_over_quantity footer, .quality_over_quantity header, .quality_over_quantity hgroup, .quality_over_quantity menu, .quality_over_quantity nav, .quality_over_quantity section {
+.blog_copy_2023 article, .blog_copy_2023 aside, .blog_copy_2023 details, .blog_copy_2023 figcaption, .blog_copy_2023 figure,
+.blog_copy_2023 footer, .blog_copy_2023 header, .blog_copy_2023 hgroup, .blog_copy_2023 menu, .blog_copy_2023 nav, .blog_copy_2023 section {
   display: block;
 }
-.quality_over_quantity body {
+.blog_copy_2023 body {
   line-height: 1;
 }
-.quality_over_quantity ol, .quality_over_quantity ul {
+.blog_copy_2023 ol, .blog_copy_2023 ul {
   list-style: none;
 }
-.quality_over_quantity blockquote, .quality_over_quantity q {
+.blog_copy_2023 blockquote, .blog_copy_2023 q {
   quotes: none;
 }
-.quality_over_quantity blockquote:before, .quality_over_quantity blockquote:after,
-.quality_over_quantity q:before, .quality_over_quantity q:after {
+.blog_copy_2023 blockquote:before, .blog_copy_2023 blockquote:after,
+.blog_copy_2023 q:before, .blog_copy_2023 q:after {
   content: "";
   content: none;
 }
-.quality_over_quantity table {
+.blog_copy_2023 table {
   border-collapse: collapse;
   border-spacing: 0;
 }
-.quality_over_quantity, .quality_over_quantity *, .quality_over_quantity *::before, .quality_over_quantity *::after {
+.blog_copy_2023, .blog_copy_2023 *, .blog_copy_2023 *::before, .blog_copy_2023 *::after {
   box-sizing: border-box;
 }
 @media screen and (min-width: 768px) {
-  .quality_over_quantity {
+  .blog_copy_2023 {
     padding: 2rem 1rem;
   }
 }
-.quality_over_quantity .content {
-  background-color: var(--article__content-background-color, #fff);
-  color: var(--article__content-color, #333);
-  padding: 2rem;
-  margin: 0 auto;
-  max-width: 64rem;
-  width: 100%;
-}
-@media screen and (min-width: 768px) {
-  .quality_over_quantity .content {
-    border-radius: 1rem;
-    padding: 4rem;
-  }
-}
-.quality_over_quantity .meta::after {
+.blog_copy_2023 .meta::after {
   border-bottom: thin solid var(--article__content-color, #000);
   content: " ";
   display: block;
   margin: 2rem 0;
   max-width: 5rem;
 }
-.quality_over_quantity .meta-info {
+.blog_copy_2023 .meta-info {
   color: #000;
   font-style: italic;
   line-height: 1.2;
   margin: 0 0 1rem 0;
 }
-.quality_over_quantity h1 {
+.blog_copy_2023 .layout-block {
+  width: 100%;
+}
+.blog_copy_2023 .layout-content {
+  margin: 0 auto;
+  padding: 0 2rem;
+  max-width: 64rem;
+  width: 100%;
+}
+.blog_copy_2023 .layout-content--opaque {
+  background-color: #fff;
+  color: #000;
+}
+.blog_copy_2023 .layout-content--opaque:first-of-type {
+  border-top-left-radius: 2rem;
+  border-top-right-radius: 2rem;
+  padding-top: 2rem;
+}
+.blog_copy_2023 .layout-content--opaque:last-of-type {
+  border-bottom-left-radius: 2rem;
+  border-bottom-right-radius: 2rem;
+  padding-bottom: 2rem;
+}
+.blog_copy_2023 h1 {
   font-size: 3rem;
   font-weight: 600;
   line-height: 1.2;
   margin-bottom: 1rem;
 }
-.quality_over_quantity h2 {
+.blog_copy_2023 h2 {
   font-size: 2rem;
   font-weight: 600;
   line-height: 1.2;
-  margin: 4rem auto;
+  margin-bottom: 4rem;
   position: relative;
-  text-align: center;
 }
-.quality_over_quantity h2::after {
+.blog_copy_2023 h2::after {
   content: " ";
   display: block;
   border-bottom: thin solid var(--article__content-color, #000);
-  margin: 0.5rem auto 0 auto;
+  margin: 0.5rem 0 0 0;
   max-width: 5rem;
 }
-@media screen and (min-width: 768px) {
-  .quality_over_quantity h2 {
-    max-width: 40rem;
-  }
-}
-.quality_over_quantity h2 a:link, .quality_over_quantity h2 a:visited, .quality_over_quantity h2 a:active, .quality_over_quantity h2 a:hover, .quality_over_quantity h2 a:focus {
+.blog_copy_2023 h2 a:link, .blog_copy_2023 h2 a:visited, .blog_copy_2023 h2 a:active, .blog_copy_2023 h2 a:hover, .blog_copy_2023 h2 a:focus {
   font-style: inherit;
 }
-.quality_over_quantity h2 a:link::after, .quality_over_quantity h2 a:visited::after, .quality_over_quantity h2 a:active::after, .quality_over_quantity h2 a:hover::after, .quality_over_quantity h2 a:focus::after {
+.blog_copy_2023 h2 a:link::after, .blog_copy_2023 h2 a:visited::after, .blog_copy_2023 h2 a:active::after, .blog_copy_2023 h2 a:hover::after, .blog_copy_2023 h2 a:focus::after {
   display: none;
 }
-.quality_over_quantity h2 a:hover::before, .quality_over_quantity h2 a:focus::before {
+.blog_copy_2023 h2 a:hover::before, .blog_copy_2023 h2 a:focus::before {
   content: "#";
   cursor: pointer;
   font-weight: 600;
@@ -127,12 +130,12 @@
   margin-right: 0.4rem;
   position: absolute;
 }
-.quality_over_quantity p {
+.blog_copy_2023 p {
   font-size: 1.4rem;
   line-height: 1.8;
   margin-bottom: 2rem;
 }
-.quality_over_quantity a:link, .quality_over_quantity a:visited, .quality_over_quantity a:active, .quality_over_quantity a:hover, .quality_over_quantity a:focus {
+.blog_copy_2023 a:link, .blog_copy_2023 a:visited, .blog_copy_2023 a:active, .blog_copy_2023 a:hover, .blog_copy_2023 a:focus {
   color: inherit;
   cursor: pointer;
   display: inline-block;
@@ -140,7 +143,7 @@
   position: relative;
   text-decoration: none;
 }
-.quality_over_quantity a:link::after, .quality_over_quantity a:visited::after, .quality_over_quantity a:active::after, .quality_over_quantity a:hover::after, .quality_over_quantity a:focus::after {
+.blog_copy_2023 a:link::after, .blog_copy_2023 a:visited::after, .blog_copy_2023 a:active::after, .blog_copy_2023 a:hover::after, .blog_copy_2023 a:focus::after {
   bottom: 0;
   border-bottom: 0.25rem solid var(--article__content-accent-color, #f00);
   content: " ";
@@ -149,13 +152,13 @@
   position: absolute;
   width: 100%;
 }
-.quality_over_quantity blockquote {
+.blog_copy_2023 blockquote {
   display: block;
   margin: 0 auto;
 }
-.quality_over_quantity strong {
+.blog_copy_2023 strong {
   font-weight: 600;
 }
-.quality_over_quantity i {
+.blog_copy_2023 i {
   font-style: italic;
 }

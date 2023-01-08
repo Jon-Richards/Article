@@ -5,7 +5,7 @@ $breakpoints: (
   768: 'min-width: 768px'
 );
 
-.quality_over_quantity {
+.blog_copy_2023 {
   @include reset;
 
   &, *, *::before, *::after {
@@ -20,20 +20,6 @@ $breakpoints: (
 
   @media screen and (map.get($breakpoints, 768)) {
     padding: 2rem 1rem;
-  }
-
-  .content {
-    background-color: var(--article__content-background-color, #fff);
-    color: var(--article__content-color, #333);
-    padding: 2rem;
-    margin: 0 auto;
-    max-width: 64rem;
-    width: 100%;
-
-    @media screen and (map.get($breakpoints, 768)) {
-      border-radius: 1rem;
-      padding: 4rem;
-    }
   }
 
   .meta::after {
@@ -51,6 +37,34 @@ $breakpoints: (
     margin: 0 0 1rem 0;
   }
 
+  .layout-block {
+    width: 100%;
+  }
+
+  .layout-content {
+    margin: 0 auto;
+    padding: 0 2rem;
+    max-width: 64rem;
+    width: 100%;
+
+    &--opaque {
+      background-color: #fff;
+      color: #000;
+    }
+
+    &--opaque:first-of-type {
+      border-top-left-radius: 2rem;
+      border-top-right-radius: 2rem;
+      padding-top: 2rem;
+    }
+
+    &--opaque:last-of-type {
+      border-bottom-left-radius: 2rem;
+      border-bottom-right-radius: 2rem;
+      padding-bottom: 2rem;
+    }
+  }
+
   h1 {
     font-size: 3rem;
     font-weight: 600;
@@ -62,20 +76,15 @@ $breakpoints: (
     font-size: 2rem;
     font-weight: 600;
     line-height: 1.2;
-    margin: 4rem auto;
+    margin-bottom: 4rem;
     position: relative;
-    text-align: center;
 
     &::after {
       content: ' ';
       display: block;
       border-bottom: thin solid var(--article__content-color, #000);
-      margin: 0.5rem auto 0 auto;
+      margin: 0.5rem 0 0 0;
       max-width: 5rem;
-    }
-
-    @media screen and (map.get($breakpoints, 768)) {
-      max-width: 40rem;
     }
 
     a:link, a:visited, a:active, a:hover, a:focus {

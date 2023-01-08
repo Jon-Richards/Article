@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "node ./scripts/build.js --html='blog_copy_2023' --scss='blog_copy_2023'",
-    "build:watch": "nodemon --watch 'src/**/*' -e js,html,scss ./scripts/build.js",
+    "build:watch": "nodemon --watch 'src/**/*' -e js,html,scss ./scripts/build.js --html='blog_copy_2023' --scss='blog_copy_2023'",
     "start": "node ./scripts/server.js"
   },
   "author": "Jon Richards",
